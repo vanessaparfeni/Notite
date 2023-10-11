@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.tablo{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    box-shadow: 4px 5px 27px 10px gray;
+    height: 350px;
+    width: 250px;
+    border-radius: 10px;
+    margin-left: 610px;
+    margin-top: 80px;
+}
+
+.tabl0{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    box-shadow: 4px 5px 27px 10px gray;
+    height: 350px;
+    width: 250px;
+    border-radius: 10px;
+    margin-left: 610px;
+    margin-top: 80px;
+}
+
+.box-button{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    width: 450px;
+    border-radius: 10px;
+    margin-left: 510px;
+    margin-top: 80px;
+}
+
+.cont{
+    margin-top: 50px;
+}
